@@ -11,5 +11,5 @@
     "x-service.ts"
   ],
   "collectCoverage": true,
-  "coverageReporters": ["lcov"]
+  "coverageReporters": ["lcov", "text", "text-summary"]
 }
